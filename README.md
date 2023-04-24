@@ -6,5 +6,5 @@ This is my very first repository with Kekambas-117
 1. git init
 2. git add \<file\> OR git add .
 3. git commit -m "YOUR MESSAGE"
-4. git add REMOTE_NAME_REMOTE_URL
+4. git remote add REMOTE_NAME_REMOTE_URL
 5. git push REMOTE_NAME BRANCH_NAME
